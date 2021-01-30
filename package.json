@@ -1,0 +1,28 @@
+{
+  "name": "http-modules-benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbbaig/node-http-modules-benchmark.git"
+  },
+  "author": "Mohamed Baig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mbbaig/node-http-modules-benchmark/issues"
+  },
+  "homepage": "https://github.com/mbbaig/node-http-modules-benchmark#readme",
+  "dependencies": {
+    "autocannon": "^7.0.3",
+    "axios": "^0.21.1",
+    "clinic": "^8.0.1",
+    "got": "^11.8.1",
+    "needle": "^2.6.0",
+    "node-fetch": "^2.6.1",
+    "superagent": "^6.1.0"
+  }
+}
